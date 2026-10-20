@@ -1,0 +1,14 @@
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\bin\Debug\net10.0\20.10.2026.exe
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\bin\Debug\net10.0\20.10.2026.deps.json
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\bin\Debug\net10.0\20.10.2026.runtimeconfig.json
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\bin\Debug\net10.0\20.10.2026.dll
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\bin\Debug\net10.0\20.10.2026.pdb
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.AssemblyInfoInputs.cache
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.AssemblyInfo.cs
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.dll
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\refint\20.10.2026.dll
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.pdb
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\20.10.2026.genruntimeconfig.cache
+C:\Users\Manuel\OneDrive - sluz\Desktop\M319\Mein-Git-Projekt\20.10.2026\obj\Debug\net10.0\ref\20.10.2026.dll
