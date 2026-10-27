@@ -22,7 +22,8 @@ Console.WriteLine("a = " + a + ", b = " + b);
 */
 
 //AUFGABE 3
-// /*
+/*
+
 
 //Teil 1
 int i = 10;
@@ -46,3 +47,35 @@ while (x <= n)
 
 }
 Console.WriteLine(summe);
+*/
+
+//AUFGABE 4
+/*
+int summe = 0;
+int zahl = 0;
+do
+{
+    Console.Write("Zahl: ");
+    zahl = Convert.ToInt32(Console.ReadLine());
+    summe += zahl;
+}
+while (zahl != 0);
+Console.WriteLine("Summe: " + summe);
+*/
+
+//AUFGABE 5
+/*
+
+Console.Write("Wie alt bist du ? ");
+int alter = int.Parse(Console.ReadLine());
+
+while (alter < 0 || alter > 120)
+{
+    Console.WriteLine("Stop Capping");
+    Console.Write("Wie alt bist du fr? ");
+    alter = int.Parse(Console.ReadLine());
+}
+Console.WriteLine("Du bist " + alter + ", Glückwunsch...");
+*/
+
+//AUFGABE 6
