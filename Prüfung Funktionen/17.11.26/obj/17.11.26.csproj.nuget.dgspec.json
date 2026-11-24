@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj": {}
+    "C:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj": {
+    "C:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj",
+        "projectUniqueName": "C:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj",
         "projectName": "17.11.26",
-        "projectPath": "c:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj",
+        "projectPath": "C:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\17.11.26.csproj",
         "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\obj\\",
+        "outputPath": "C:\\Users\\Manuel\\OneDrive - sluz\\Desktop\\M319\\Mein-Git-Projekt\\Prüfung Funktionen\\17.11.26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
